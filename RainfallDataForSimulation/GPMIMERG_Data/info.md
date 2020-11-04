@@ -1,2 +1,2 @@
 
-Extracts rainfall data from NASA's Earthdata Server
+Extracts GPM IMERG rainfall data from NASA's Earthdata Server
