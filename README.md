@@ -2,7 +2,7 @@
 Collection of IPython scripts used for accessing remote sensed data from NASA servers and scripts used for post processing flood simulation results from CFAST
 
 # Table of Contents
-## IFDCurvesGeneration:
+## IFDCurvesGeneration
 #### Generate_IFD_Bangkok.ipynb -  
 * Extracts GPM IMERG Rainfall data for a specified sub region from the NASA GES DISC THREDDS SERVER and plots IFD Curves
 
@@ -11,7 +11,7 @@ Collection of IPython scripts used for accessing remote sensed data from NASA se
 #### ReadnetCDFData.ipynb - 
 * Reads netCDF data from the APHRODITE Website (aphrodite.st.hirosaki-u.ac.jp) and plotting the data for a specified region
 
-### GPMIMERG_Data -
+### GPMIMERG_Data 
 #### Get_netCDF_data.ipynb -
 * Extracts GPM IMERG data for a specified duration, combines the data and plot the data for a specified region
 
