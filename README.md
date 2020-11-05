@@ -4,4 +4,4 @@ Collection of IPython scripts used for accessing remote sensed data from NASA se
 #### Table of Contents
 # IFDCurvesGeneration:
 Generate_IFD_Bangkok.ipynb -  
-#^  Reads GPM IMERG Rainfall data from the NASA GES DISC THREDDS SERVER utilising the PyDAP client from geostack (https://gitlab.com/geostack)
+..* Reads GPM IMERG Rainfall data from the NASA GES DISC THREDDS SERVER utilising the PyDAP client from geostack (https://gitlab.com/geostack)
