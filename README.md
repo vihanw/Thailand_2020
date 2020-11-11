@@ -23,3 +23,7 @@ Collection of IPython scripts used for accessing remote sensed data from NASA se
 ### ValidationCasePostProcessing
 #### ThailandPostProcessing.ipynb -
 * Script to process flood simualtion results from the validation simulations (flood event in 2011) and compaare the results with the historical data
+
+# InfiltrationDataExtraction
+#### ExtractGTIFFFromNetCDF.ipynb -
+Script to read the GLDAS soil types netCDF data and map it to the Green Ampt infiltration parameters and save the parameters as geotiffs
